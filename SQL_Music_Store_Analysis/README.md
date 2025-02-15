@@ -1,13 +1,14 @@
-# SQL_Project_Music_Store_Analysis
-SQL project to analyze online music store data
+# SQL_MusicStore_Analysis
+A comprehensive collection of SQL solutions covering easy, moderate, and advanced problems across diverse datasets. This portfolio showcases expertise in joins, CTEs, window functions, subqueries, and query optimizations, helping to solve real-world database challenges efficiently.
 
-This project is for beginners and will teach you how to analyze the music playlist database. You can examine the dataset with SQL and help the store understand its business growth by answering simple questions.
+What’s Inside?
 
-> Complete project explained on YouTube: https://www.youtube.com/watch?v=VFIuIjswMKM
+✅ Beginner-Level Queries – Basic CRUD operations, filtering, sorting, and aggregations
+✅ Intermediate-Level Queries – Joins, subqueries, CTEs, and conditional logic
+✅ Advanced-Level Queries – Window functions, recursive CTEs, and query optimizations
 
-## Database and Tools
-* Postgre SQL
-* PgAdmin4
+Why This Portfolio?
 
-Schema- Music Store Database  
-![MusicDatabaseSchema](https://user-images.githubusercontent.com/112153548/213707717-bfc9f479-52d9-407b-99e1-e94db7ae10a3.png)
+✔️ Strengthen SQL skills with hands-on practice
+✔️ Prepare for technical interviews with real-world SQL problems
+✔️ Learn performance tuning and best practices
